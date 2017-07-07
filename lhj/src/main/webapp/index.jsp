@@ -8,7 +8,7 @@
 	<input type="button" value="confirm" onclick="confirmfuc();">
 	<input type="button" value="prompt" onclick="promptfuc();">
 	<script type="text/javascript">
-		function alerfuc(){
+		function alertfuc(){
 			alert(1);
 			alert(2);
 			alert(3);
