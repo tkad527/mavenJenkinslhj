@@ -17,7 +17,7 @@
 		function confirmfuc(){
 			if(confirm('ok?'))
 				alert('ok');
-			elsep
+			else
 				alert('cancel');
 		}
 
