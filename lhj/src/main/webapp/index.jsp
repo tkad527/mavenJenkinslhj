@@ -6,7 +6,7 @@
 <body>
 	<input type="button" value="alert" onclick="alertfuc();" />
 	<input type="button" value="confirm" onclick="confirmfuc();">
-	<input type="buton" value="prompt" onclick="promptfuc();">
+	<input type="button" value="prompt" onclick="promptuc();">
 	<script type="text/javascript">
 		function alertfuc(){
 			alert(1);
